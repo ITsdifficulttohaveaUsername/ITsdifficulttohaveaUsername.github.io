@@ -5804,7 +5804,8 @@ button.botui-actions-buttons-button {
     width:auto
 }
 .logolink a:hover .sakurasono {
-   
+    background-color:orange;
+    color:#fff
 }
 .logolink a:hover .shironeko,.logolink a:hover rt {
     color:orange
